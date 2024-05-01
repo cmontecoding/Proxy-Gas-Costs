@@ -1,0 +1,4 @@
+CounterTest:testFuzz_SetNumber(uint256) (runs: 256, μ: 30143, ~: 31310)
+CounterTest:test_Increment() (gas: 31325)
+ProxyTest:testUpgrade() (gas: 443882)
+ProxyTest:test_Increment() (gas: 36559)
